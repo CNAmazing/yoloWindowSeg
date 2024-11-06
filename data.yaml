@@ -1,0 +1,7 @@
+train: data/YOLODataset/images/train # train images (relative to 'path') 4 images
+val: data/YOLODataset/images/val # val images (relative to 'path') 4 images
+
+nc: 3
+
+# class names
+names: ["window","balcony","door"]
